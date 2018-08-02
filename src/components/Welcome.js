@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default () => {
-  return <h3>Welcome (not logged in)</h3>;
+  return <h3>Welcome</h3>;
 };
